@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Python Projects
 
 A collection of Python projects covering data analysis, automation, visualization, and problem-solving.
 
