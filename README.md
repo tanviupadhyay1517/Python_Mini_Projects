@@ -12,6 +12,7 @@ A collection of Python projects covering data analysis, automation, visualizatio
 
 ## 📂 Projects
 - 💎 Diamond Price Analysis
+- 🍷 Wine Quality Analysis
 - 🚀 More projects coming soon...
 
 ## 🎯 Skills
