@@ -8,6 +8,7 @@ A collection of Python projects covering data analysis, automation, visualizatio
 - NumPy
 - Matplotlib
 - Seaborn
+- Plotly Express
 - Jupyter Notebook
 
 ## 📂 Projects
