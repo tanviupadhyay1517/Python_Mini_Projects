@@ -1,4 +1,4 @@
-# Wine Data Analysis
+# Wine_quality Data Analysis
 
 ## Project Overview
 Analysis of wine dataset using Python.
